@@ -18,7 +18,7 @@ require (
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
 	github.com/davecgh/go-spew v1.1.1
 	github.com/docker/cli v0.0.0-20200221155518-740919cc7fc0
-	github.com/docker/distribution v2.7.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v17.12.0-ce-rc1.0.20200204220554-5f6d6f3f2203+incompatible
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/docker/go-connections v0.4.0
